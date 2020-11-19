@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FFD9CC;}
+	.st2{font-family:'PlayfairDisplay-Black';}
+	.st3{font-size:151.6812px;}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st5{font-size:75.9051px;}
+	.st6{font-family:'PlayfairDisplay-Regular';}
+	.st7{font-size:70.4283px;}
+	.st8{display:none;}
+	.st9{font-family:'Montserrat-Regular';}
+	.st10{font-size:9.8691px;}
+	.st11{letter-spacing:2;}
+</style>
+<g id="BACKGROUND">
+	<rect class="st0" width="500" height="500"/>
+</g>
+<g id="OBJECTS">
+	<g>
+		<rect x="225.2" y="172.97" class="st1" width="33.47" height="127.46"/>
+		<text transform="matrix(1 0 0 1 100.8159 287.8814)" class="st2 st3">D</text>
+		<g>
+			<line class="st4" x1="102.6" y1="297.76" x2="207.62" y2="297.76"/>
+			<g>
+				<path d="M209.99,297.76c0,1.31-1.06,2.37-2.37,2.37c-1.31,0-2.37-1.06-2.37-2.37s1.06-2.37,2.37-2.37
+					C208.93,295.39,209.99,296.45,209.99,297.76z"/>
+				<path d="M105.56,297.76c0,1.31-1.06,2.37-2.37,2.37c-1.31,0-2.37-1.06-2.37-2.37s1.06-2.37,2.37-2.37
+					C104.5,295.39,105.56,296.45,105.56,297.76z"/>
+			</g>
+		</g>
+		<g>
+			<line class="st4" x1="221.46" y1="298.35" x2="221.46" y2="175.05"/>
+			<g>
+				<path d="M221.46,172.67c1.31,0,2.37,1.06,2.37,2.37c0,1.31-1.06,2.37-2.37,2.37s-2.37-1.06-2.37-2.37
+					C219.09,173.74,220.15,172.67,221.46,172.67z"/>
+				<path d="M221.46,295.39c1.31,0,2.37,1.06,2.37,2.37s-1.06,2.37-2.37,2.37s-2.37-1.06-2.37-2.37S220.15,295.39,221.46,295.39z"/>
+			</g>
+		</g>
+		<text transform="matrix(1 0 0 1 169.9956 231.8837)" class="st1 st2 st5">d</text>
+		<text transform="matrix(1 0 0 1 223.8345 232.2063)" class="st6 st7">esign</text>
+		<text transform="matrix(1 0 0 1 202.64 168.7808)" class="st8 st9 st10 st11">YOUR SLOGAN HERE</text>
+	</g>
+	<rect x="362.94" y="316.74" width="20.52" height="3.97"/>
+	<rect x="110.13" y="159.04" width="20.52" height="3.97"/>
+</g>
+</svg>
